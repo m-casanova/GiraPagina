@@ -1,0 +1,34 @@
+% A template for the MANIFEST.txt file for works released
+% under the GUST Font License.
+%
+% Fonts whose names should be changed in derived works as requested
+% by clause 1 of GUST-FONT-LICENSE.txt:
+GiraPagina Regular
+GiraPagina Italic
+GiraPagina Bold
+GiraPagina Bold Italic
+
+% Files whose names should be changed in derived works as requested
+% by clause 1 of GUST-FONT-LICENSE.txt:
+otf/GiraPagina-Regular.otf
+otf/GiraPagina-RegularItalic.otf
+otf/GiraPagina-Bold.otf
+otf/GiraPagina-BoldItalic.otf
+ttf/GiraPagina-Regular.ttf
+ttf/GiraPagina-RegularItalic.ttf
+ttf/GiraPagina-Bold.ttf
+ttf/GiraPagina-BoldItalic.ttf
+woff/GiraPagina-Regular.woff
+woff/GiraPagina-RegularItalic.woff
+woff/GiraPagina-Bold.woff
+woff/GiraPagina-BoldItalic.woff
+woff2/GiraPagina-Regular.woff2
+woff2/GiraPagina-RegularItalic.woff2
+woff2/GiraPagina-Bold.woff2
+woff2/GiraPagina-BoldItalic.woff2
+README-GiraPagina.txt
+MANIFEST-GiraPagina.txt
+
+% Files whose names need not be changed in derived works as requested
+% by clause 1 of GUST-FONT-LICENSE.txt:
+GUST-FONT-LICENSE.txt
